@@ -1,0 +1,19 @@
+led9=9;
+led11=11;
+in2=2;
+in4=4;
+void setup(){
+
+pinMode(led11,OUTPUT);
+pinMode(led11,OUTPUT);
+pinMode(in2,INPUT);
+pinMode(in4,INPUT);
+
+}
+
+
+void loop(){
+
+
+
+}
